@@ -1,0 +1,14 @@
+body{
+    width: 100vw;
+}
+.menu{
+    background-color: aliceblue;
+}
+header{
+    background: linear-gradient(to top,rgba(0,0,0,0.85) 0%, rgba(0,0,0,0) 100%) , url(../images/header_bg.png) no-repeat center;
+    background-size: cover;
+}
+.newsletter{
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.6) 0%, rgba(5, 24, 76, 0) 84%, rgba(6, 28, 91, 0) 100%) , url(../images/newsleter_bg.png) no-repeat center;
+    background-size: cover; 
+}
